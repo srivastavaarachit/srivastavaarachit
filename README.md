@@ -267,6 +267,6 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 
 <br/><br/>
 
-<sub>⟁  `connection terminated — stay paranoid, stay curious.`  ⟁</sub>
+<sub>⟁  `connection terminated — stay paranoid, stay curious, HAIL SRIVASTAVA!`  ⟁</sub>
 
 </div>
