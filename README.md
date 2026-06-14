@@ -183,9 +183,9 @@ const rachit = {
 ┌─[ rachit@asu ]─[~/missions]
 └──╼ $ status
 
+[████████████████████] 100%  ⟶  🤖  Digital Designing Fundamentals
 [████████████--------]  60%  ⟶  🔐  Mastering Reverse Engineering & Pentesting
 [██████████----------]  50%  ⟶  🎓  CS-Cybersecurity Degree @ Arizona State University
-[██████████----------]  50%  ⟶  🤖  Digital Designing — Traffic Light System (Logisim)
 [████████------------]  40%  ⟶  🌍  Contributing to Open Source
 [██████--------------]  30%  ⟶  🧠  Distributed Systems & Low-Level Architecture
 ```
