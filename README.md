@@ -7,7 +7,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:00ff9f,100:ff00aa&height=260&section=header&text=RACHIT%20SRIVASTAVA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=//%20CYBERSECURITY%20%E2%9A%94%20SYSTEMS%20%E2%9A%94%20EMBEDDED%20OPS&descAlignY=58&descSize=18)
 
 <a href="https://github.com/srivastavaarachit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=00FF9F&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+initializing+cyber.kernel...;%3E+access+granted+%2F%2F+welcome+intruder;%3E+%5BRACHIT+SRIVASTAVA%5D+%40+ARIZONA+STATE+;%3E+CS+%2F%2F+CYBERSECURITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=00FF9F&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+initializing+cyber.kernel...;%3E+access+granted+%2F%2F+welcome+intruder;%3E+%5BRACHIT+SRIVASTAVA%5D+%40+ARIZONA+STATE" alt="Typing SVG" />
 </a>
 
 <br/>
