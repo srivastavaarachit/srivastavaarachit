@@ -206,16 +206,7 @@ const rachit = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🔐 OFFENSIVE SECURITY LAB
-> **Personal Initiative — 2025 ▸ Present**
-
-Self-driven cybersecurity playground: CTF write-ups, reverse engineering binaries, network pentesting & exploit development across Linux/Windows targets.
-
-`Kali` `Ghidra` `Burp Suite` `Wireshark` `Nmap` `Metasploit`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🚦 EEE 120 — TRAFFIC LIGHT SYSTEM
