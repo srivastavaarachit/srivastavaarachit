@@ -183,7 +183,6 @@ const rachit = {
 ┌─[ rachit@asu ]─[~/missions]
 └──╼ $ status
 
-[████████████████░░░░]  80%  ⟶  🔐  Offensive Security Lab — CTFs, Reverse Engineering, Exploit Dev
 [██████████████░░░░░░]  70%  ⟶  🎓  CS-Cybersecurity Degree @ Arizona State University
 [████████████░░░░░░░░]  60%  ⟶  🔐  Mastering Reverse Engineering & Pentesting
 [██████████░░░░░░░░░░]  50%  ⟶  🤖  Digital Designing — Traffic Light System (Logisim)
