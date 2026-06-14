@@ -51,8 +51,7 @@ const rachit = {
     alias:        "ghost_in_the_shell",
     location:     "Tempe, AZ  ⟶  Arizona State University",
     role:         "B.S. Computer Science (Cybersecurity) + Business Minor",
-    gpa:          3.84,
-    year:         "Sophomore // class of 2028",
+    year:         "Junior // class of 2028",
 
     current_mission: "Sharpening offensive security skills & shipping low-level systems projects",
 
@@ -67,7 +66,7 @@ const rachit = {
     },
 
     soft_skills:    ["critical thinking", "clear comms", "ethical hacking mindset", "team-first"],
-    battle_scars:   "Mentor @ Sun Devil Robotics Club",
+    battle_scars:   "Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering",
     motto:          "Break it. Patch it. Harden it. Ship it.",
 
     currently_learning: ["Reverse Engineering", "Network Pentesting", "Distributed Systems"],
@@ -79,7 +78,7 @@ const rachit = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+TECH+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -133,7 +132,7 @@ const rachit = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+STATS+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -168,7 +167,7 @@ const rachit = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+MISSIONS+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -196,7 +195,7 @@ const rachit = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+FEATURED+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -237,7 +236,7 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+WISDOM+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -261,7 +260,7 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+//end+of+transmission+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
@@ -277,8 +276,6 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 <img src="https://forthebadge.com/images/badges/uses-git.svg" />
 
 <br/><br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:00ff9f,100:0f0c29&height=160&section=footer&text=%2F%2F%20end%20of%20transmission&fontColor=ffffff&fontSize=22&animation=twinkling)
 
 <sub>⟁  `connection terminated — stay paranoid, stay curious.`  ⟁</sub>
 
