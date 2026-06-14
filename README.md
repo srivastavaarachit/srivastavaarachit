@@ -1,18 +1,27 @@
+```markdown
 <div align="center">
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     CYBER-OPS // RACHIT.SRV                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:00ff9f,100:ff00aa&height=260&section=header&text=RACHIT%20SRIVASTAVA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=//%20CYBERSECURITY%20%E2%9A%94%20SYSTEMS%20%E2%9A%94%20EMBEDDED%20OPS&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:00ff9f,100:ff00aa&height=240&section=header&fontSize=0&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2800&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=900&height=90&lines=R+A+C+H+I+T++S+R+I+V+A+S+T+A+V+A;%3C%2F+CYBER.OPS+%2F%3E;%7B+H4CK_THE_PL4NET+%7D;%2F%2F+SYSTEM.OVERRIDE.EXE" alt="Name Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=600&color=FF00AA&background=00000000&center=true&vCenter=true&width=900&height=40&lines=%2F%2F+CYBERSECURITY+%E2%9A%94+SYSTEMS+%E2%9A%94+EMBEDDED+OPS" alt="tagline" />
+
+<br/>
 
 <a href="https://github.com/srivastavaarachit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=00FF9F&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+initializing+cyber.kernel...;%3E+access+granted+%2F%2F+welcome+intruder;%3E+%5BRACHIT+SRIVASTAVA%5D+%40+ARIZONA+STATE+UNIV.;%3E+CS+%2F%2F+CYBERSECURITY+%E2%80%A2+SYSTEM+DESIGNER+%E2%80%A2+EMBEDDED+HACKER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00FF9F&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=160&lines=%3E+initializing+cyber.kernel...;%3E+access+granted+%2F%2F+welcome+intruder;%3E+%5BRACHIT+SRIVASTAVA%5D+%40+ARIZONA+STATE;%3E+CS+%2F%2F+CYBERSECURITY+%E2%80%A2+SYSTEM+DESIGNER+%E2%80%A2+EMBEDDED+HACKER" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=600&color=FF00AA&center=true&vCenter=true&width=820&lines=%22Code+like+a+warrior%2C+ship+like+a+captain.%22;%22A+computer+shall+not+waste+your+time.%22+%E2%80%94+Jef+Raskin;Breaking+systems+to+understand+them.;Building+systems+that+refuse+to+break." alt="Quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3200&pause=800&color=FF66CC&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%22Code+like+a+warrior%2C+ship+like+a+captain.%22;%22A+computer+shall+not+waste+your+time.%22+--+Jef+Raskin;Breaking+systems+to+understand+them.;Building+systems+that+refuse+to+break." alt="Quotes" />
 
 <br/><br/>
 
@@ -32,12 +41,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
 
 
 <div align="center">
@@ -77,12 +80,6 @@ const rachit = {
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
 
 
 <div align="center">
@@ -132,12 +129,6 @@ const rachit = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
-
 
 <div align="center">
 
@@ -167,12 +158,6 @@ const rachit = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
-
 
 <div align="center">
 
@@ -194,12 +179,6 @@ const rachit = {
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
 
 
 <div align="center">
@@ -236,12 +215,6 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
-
 
 <div align="center">
 
@@ -260,12 +233,6 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:ff00aa,100:00ff9f&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%E2%97%86+%E2%97%86+%E2%97%86++%E2%97%84%E2%97%84%E2%97%84++%5B+SECTION+BREAK+%5D++%E2%96%B6%E2%96%B6%E2%96%B6++%E2%97%86+%E2%97%86+%E2%97%86" alt="divider"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00aa,50:00ff9f,100:ff00aa&height=2&section=header" width="100%"/>
-
 
 <div align="center">
 
@@ -278,8 +245,9 @@ Full digital design capstone in **Logisim**. Led peer mentorship, ran interactiv
 
 <br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:00ff9f,100:0f0c29&height=160&section=footer&text=%2F%2F%20end%20of%20transmission&fontColor=ffffff&fontSize=22&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:00ff9f,100:0f0c29&height=160&section=footer&fontSize=0&animation=twinkling)
 
 <sub>⟁  `connection terminated — stay paranoid, stay curious.`  ⟁</sub>
 
 </div>
+```
